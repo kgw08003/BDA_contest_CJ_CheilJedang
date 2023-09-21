@@ -2,6 +2,10 @@
 
 ![내부공모전](https://github.com/kgw08003/BDA_contest_CJ_CheilJedang/assets/109195054/41eecd82-4e87-4ddc-8ff5-d03a7869ec60)
 
+
+![빅데이터 분석학회](https://github.com/kgw08003/BDA_contest_CJ_CheilJedang/assets/109195054/09321e64-8e0f-4933-a7a1-42f015620063)
+
+
 ### 조원 소개
 - 김지웅
 - 김민지
