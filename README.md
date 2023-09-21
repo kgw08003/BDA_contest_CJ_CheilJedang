@@ -26,3 +26,6 @@
 
 ### 데이케팅(da-keting)_BDA아이디어공모전.docx
 - 해당 데이터 분석 보고서
+
+### 최종 본선 진출
+![공모전](https://github.com/kgw08003/BDA_contest_CJ_CheilJedang/assets/109195054/440fbb12-0329-4fd0-a0ce-73211b12fe3c)
